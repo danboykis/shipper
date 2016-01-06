@@ -1,0 +1,7 @@
+{:shipper-db {:url "blah" :user "foo" :pass "bar"}
+ :warehouse {:url "from-warehouse" :topic "ready"}
+ :postal {:url "to-postal" :topic "ship"}
+ :emailer { ;; SMTP properties
+           }}
+
+
